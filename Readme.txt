@@ -6,7 +6,7 @@
 
 1. Add all matlab file into your Matlab path;
 
-2. Change the test funtion name on test.m(lines 4,6,12);
+2. Change the test funtion name on test.m(lines 2,16);
 
 3. Run test.m to test.
 
